@@ -37,3 +37,4 @@ function getSynbols(number, sumOnly, left, right, str, arr) {
     }
     return arr;
 };
+module.exports = getSynbols;
